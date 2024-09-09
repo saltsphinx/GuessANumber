@@ -1,0 +1,10 @@
+body,
+.wrapper {
+    width: fit-content;
+}
+
+.input {
+    min-height: 16px;
+    height: 1.5rem;
+    width: 100%;
+}
